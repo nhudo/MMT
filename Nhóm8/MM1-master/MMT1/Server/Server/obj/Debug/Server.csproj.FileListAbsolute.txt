@@ -1,0 +1,16 @@
+C:\Users\nguye\Desktop\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\nguye\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\nguye\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\nguye\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\nguye\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\nguye\Desktop\Server\Server\obj\Debug\Server.pdb
+C:\Users\HoangTuan\Desktop\MMT\Server\Server\bin\Debug\Server.exe
+C:\Users\HoangTuan\Desktop\MMT\Server\Server\bin\Debug\Server.pdb
+C:\Users\HoangTuan\Desktop\MMT\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\HoangTuan\Desktop\MMT\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\HoangTuan\Desktop\MMT\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\HoangTuan\Desktop\MMT\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\HoangTuan\Desktop\MMT\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\HoangTuan\Desktop\MMT\Server\Server\obj\Debug\Server.exe
+C:\Users\HoangTuan\Desktop\MMT\Server\Server\obj\Debug\Server.pdb

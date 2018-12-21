@@ -1,0 +1,17 @@
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\bin\Debug\WinFTP.exe.config
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\bin\Debug\WinFTP.exe
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\bin\Debug\WinFTP.pdb
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\bin\Debug\Interop.Shell32.dll
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\obj\Debug\WinFTP.frmDownload.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\obj\Debug\WinFTP.frmLogin.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\obj\Debug\WinFTP.frmMain.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\obj\Debug\WinFTP.frmNewFolder.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\obj\Debug\WinFTP.frmRename.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\obj\Debug\WinFTP.frmUpload.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\obj\Debug\WinFTP.Properties.Resources.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\obj\Debug\FTP.csproj.CopyComplete
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\obj\Debug\WinFTP.exe
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\MMT\Win7FTP\obj\Debug\WinFTP.pdb

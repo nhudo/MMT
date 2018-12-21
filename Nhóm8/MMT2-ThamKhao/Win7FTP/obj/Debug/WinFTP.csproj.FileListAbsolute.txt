@@ -1,0 +1,49 @@
+E:\FILM\Win7FTP\Win7FTP\bin\Debug\WinFTP.exe.config
+E:\FILM\Win7FTP\Win7FTP\bin\Debug\WinFTP.exe
+E:\FILM\Win7FTP\Win7FTP\bin\Debug\WinFTP.pdb
+E:\FILM\Win7FTP\Win7FTP\bin\Debug\Interop.Shell32.dll
+E:\FILM\Win7FTP\Win7FTP\obj\Debug\ResolveAssemblyReference.cache
+E:\FILM\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmDownload.resources
+E:\FILM\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmLogin.resources
+E:\FILM\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmMain.resources
+E:\FILM\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmNewFolder.resources
+E:\FILM\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmRename.resources
+E:\FILM\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmUpload.resources
+E:\FILM\Win7FTP\Win7FTP\obj\Debug\WinFTP.Properties.Resources.resources
+E:\FILM\Win7FTP\Win7FTP\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\FILM\Win7FTP\Win7FTP\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\FILM\Win7FTP\Win7FTP\obj\Debug\WinFTP.exe
+E:\FILM\Win7FTP\Win7FTP\obj\Debug\WinFTP.pdb
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\bin\Debug\WinFTP.exe.config
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\obj\Debug\WinFTP.exe
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\obj\Debug\WinFTP.pdb
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\bin\Debug\WinFTP.exe
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\bin\Debug\WinFTP.pdb
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\bin\Debug\Interop.Shell32.dll
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\obj\Debug\ResolveAssemblyReference.cache
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmDownload.resources
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmLogin.resources
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmMain.resources
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmNewFolder.resources
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmRename.resources
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmUpload.resources
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\obj\Debug\WinFTP.Properties.Resources.resources
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\LEARNING\GiaoTrinh\HK II\DALTM\FTP\Win7FTP\Win7FTP\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\bin\Debug\WinFTP.exe.config
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\bin\Debug\WinFTP.exe
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\bin\Debug\WinFTP.pdb
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\bin\Debug\Interop.Shell32.dll
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\obj\Debug\WinFTP.csprojAssemblyReference.cache
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmDownload.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmLogin.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmMain.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmNewFolder.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmRename.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\obj\Debug\WinFTP.frmUpload.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\obj\Debug\WinFTP.Properties.Resources.resources
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\obj\Debug\WinFTP.csproj.GenerateResource.cache
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\obj\Debug\WinFTP.csproj.CoreCompileInputs.cache
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\obj\Debug\WinFTP.csproj.CopyComplete
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\obj\Debug\WinFTP.exe
+C:\Users\mr.nhu\Desktop\BaoCaoDALTM\Win7FTP\Win7FTP\obj\Debug\WinFTP.pdb
